@@ -1,0 +1,24 @@
+body{
+    background-color : #B784B7; 
+    text-align : center
+     
+}
+
+ul {
+    list-style-type: none;
+    color: #8E7AB5;
+    font-family: "Anton";
+    text-align: center;
+    border : 10px solid rgb(191, 213, 244);
+    background-color:#B5C0D0
+}
+#pas-important {
+    font-size: 0.5em
+}
+#texte {
+    font-size: 3.5em
+}
+.text {
+    font-size: 2em
+
+}
