@@ -1,0 +1,35 @@
+body{
+    background-color : #B784B7; 
+    
+}
+h1{
+    color: #8E7AB5;
+    font-family: "Anton";
+    text-align: center;
+    border: 10px solid rgb(191, 213, 244);
+    background-color:#B5C0D0 
+    
+}
+h2, h3{
+    color:#E493B3;
+    font-family: "Anton"
+}
+li{
+    color: #EEA5A6;
+    font-family: "Anton"
+}
+.compo {
+    color: #B5C0D0;
+    font-family: "Dancing script"; 
+}
+#important {
+    color :#EEA5A6;
+}
+ul {
+    list-style-type: none;
+}
+.text{
+    color :#EED3D9;
+    font-family: "Satisfy"
+
+}
